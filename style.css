@@ -1,0 +1,29 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+font-family: 'Trebuchet MS';
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+#number_of_objects{
+    font-size:18px;
+    font-family: 'Trebuchet MS';
+}
+canvas{
+   
+    margin-top:30px;
+    box-shadow: 10px 10px 10px powderblue;
+}
+#wait{
+    font-family: 'Trebuchet MS';
+}
